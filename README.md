@@ -23,6 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+
+https://github.com/user-attachments/assets/1d39389b-7598-4b72-b6ee-893cbd3ffce7
+
 <img src='https://imgur.com/gallery/walkthrough-mfal7rR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
