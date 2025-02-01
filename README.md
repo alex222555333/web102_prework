@@ -23,7 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='"//s.imgur.com/min/embed.js"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://github.com/user-attachments/assets/0039b5ce-37fc-4981-bea4-0176b820eaf7
+
+
+<img src='https://imgur.com/gallery/sea-monster-crowdfunding-XQfShSI"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
