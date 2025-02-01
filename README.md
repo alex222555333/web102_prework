@@ -22,12 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-
-https://github.com/user-attachments/assets/0039b5ce-37fc-4981-bea4-0176b820eaf7
-
-
-<img src='https://imgur.com/gallery/sea-monster-crowdfunding-XQfShSI"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/XQfShSI"  ><a href="//imgur.com/a/XQfShSI">Sea Monster Crowdfunding</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
